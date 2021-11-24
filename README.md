@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shirinlee 
-- ✨ I'm the Tech Talent Business Partner for a UK based insuretech
+- ✨ I'm a Tech Talent Business Partner for a UK based insuretech
 - 👀 I’m interested in microservices, web applications and cloud environments
 - 🌱 I’m always learning from mey colleagues and candidates
 - 📫 You can reach me on https://www.linkedin.com/in/shirin-lee/ 
